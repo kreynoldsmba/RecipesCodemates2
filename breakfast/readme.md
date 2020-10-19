@@ -1,21 +1,21 @@
-# Replace with recipe name
+# Green eggs and ham
 
-## Servings: 
+## Servings: 4
 
-## Time to prepare: 
+## Time to prepare: 10 minutes
 
-## Ingredients:
-
-
-## Equipment needed:
+## Ingredients: 8 eggs, green food coloring, butter, 4 pieces sliced ham, salt and pepper (to taste)
 
 
-## Steps for preparation:
+## Equipment needed: Frying pan, spatula, bowl, fork
 
 
-
-### Notes:
+## Steps for preparation: Crack eggs into bowl and whisk them with fork; add 6 drops green food coloring; grease pan with butter; cook eggs on medium heat in buttered pan until they are your desired consistency. Add salt and pepper to taste. Servie with ham on a warm plate. 
 
 
 
-### Codemates #
+### Notes: Yum!
+
+
+
+### Codemates 
